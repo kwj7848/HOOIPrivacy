@@ -1,4 +1,6 @@
-# HOOIPrivacy
+# HOOIPrivacy (호이 개인정보 처리 방침)
+
+## 한국어(IN KOREAN)
 
 < HOOI >('https://github.com/kwj7848/HOOIPrivacy.git'이하 'HOOI')은(는) 「개인정보 보호법」 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리방침을 수립·공개합니다.
 
@@ -263,3 +265,188 @@ HOOI 은(는) 정보주체의 이용정보를 저장하고 수시로 불러오�
 예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
 
 예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
+
+
+
+## IN ENGLISH
+
+In accordance with Article 30 of the Personal Information Protection Act, <HOI> ("https://github.com/kwj7848/HOOIPrivacy.git'") establishes and discloses a personal information processing policy as follows to protect the personal information of the data subject and to quickly and smoothly deal with related difficulties.
+
+○ This personal information processing policy will be applied from January 1, 2022.
+
+Article 1 (Purpose of processing personal information)
+
+<HOI> ('https://github.com/kwj7848/HOOIPrivacy.git' hereinafter referred to as 'HOI') processes personal information for the following purposes: The personal information being processed is not used for any purpose other than the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the Personal Information Protection Act.
+
+Leverage for marketing and advertising
+Personal information is processed for the purpose of identifying the frequency of access or statistics on the use of services by members.
+
+Article 2 (Processing and Retention Period of Personal Information)
+
+① <HOI> processes and holds personal information within the period of holding and using personal information under the Act or the period of holding and using personal information agreed upon when collecting personal information from the information subject.
+
+② Each personal information processing and retention period is as follows.
+
+1. <Use for Marketing and Advertising> Personal information related to <Use for Marketing and Advertising> is collected.Held for the above purpose of use from the date of consent to use to <1 year>.Used. Grounds for holding: Act on the Collection of Access Data: Records on the Collection/Processing and Use of Credit Information: 3 years Reason for Exception:
+
+Article 3 (Item of personal information to be processed)
+
+① <HOI> is processing the following personal information items:
+
+1<Use for marketing and advertising> Required items: Service usage records, access log selection items:
+
+Article 4 (Matters concerning entrustment of personal information processing)
+
+① For smooth personal information processing, <HOI> entrusts personal information processing as follows.
+
+<> Consignee (Trustee): Details of consignment: Consignment period: < In accordance with Article 26 of the Personal Information Protection Act, personal information is prohibited, technical and management measures, re-consignment restrictions, and individual information is supervised.
+③ If the details of the entrusted work or the trustee changes, we will disclose it through this personal information processing policy without delay.
+
+Article 5 (Procedure and method of destruction of personal information)
+
+① <HOI> destroys personal information without delay when personal information becomes unnecessary, such as the expiration of the personal information retention period and the achievement of the purpose of processing.
+
+② If personal information is to be preserved in accordance with other laws and regulations despite the expiration of the period of personal information retention agreed by the data subject or the purpose of processing has been achieved, the personal information is moved to a separate database (DB) or stored elsewhere.
+
+Legal basis:
+Personal information items to be preserved: account information, transaction date
+③ The procedure and method of destroying personal information are as follows.
+
+The destruction procedure HHOI> selects personal information for which the reason for destruction occurs, and destroys personal information with the approval of the person in charge of personal information protection of HHOI>.
+
+Destruction method
+
+Electronic file types of information use a technical method that does not allow recording to be played back
+
+Article 6 (Matters concerning the rights and obligations of the information subject and legal representative, and the method of exercise thereof)
+
+① The information subject may exercise the right to HOOI at any time, such as requesting access, correction, deletion, and suspension of processing of personal information.
+
+② The exercise of rights under paragraph (1) may be conducted in writing, e-mail, fax, etc. in accordance with Article 41 (1) of the Enforcement Decree of the Personal Information Protection Act, and HOI will take action without delay.
+
+③ The exercise of rights under paragraph (1) may be conducted through a legal representative of the data subject or an agent, such as a delegated person.In such cases, "Public notice on the processing method of personal information (No. 2020-7)" You must submit a power of attorney in accordance with attached Form 11.
+
+④ The rights of the data subject may be limited pursuant to Articles 35 (4) and 37 (2) of the Personal Information Protection Act for the requesting suspension of personal information access and processing.
+
+⑤ A request for correction and deletion of personal information cannot be requested to delete personal information if it is specified in other laws and regulations.
+
+⑥ The HOOI checks whether the person who made the request, such as request for perusal, correction or deletion according to the right of the information subject, or perusal when requesting suspension of processing, is the person or the legitimate agent.
+
+Article 7 (Matters concerning measures to ensure the safety of personal information)
+
+<HOI> is taking the following measures to ensure the safety of personal information.
+
+Regular self-audit is conducted regularly (once a quarter) to ensure stability related to personal information handling.
+
+Restriction of access to personal information By granting, changing, or canceling access to a database system that processes personal information, measures are taken to control access to personal information, and unauthorized access from outside is controlled using an intrusion prevention system.
+
+Use of a lock for document security Documents containing personal information, auxiliary storage media, etc. are stored in a safe place with a lock.
+
+Access control for unauthorized persons Access control procedures are established and operated for separate physical storage places where personal information is stored.
+
+Article 8 (Matters concerning the installation and operation of devices that automatically collect personal information and refusal thereof)
+
+HOOI does not use 'cookie' that stores information on the information subject and reads it from time to time.
+
+Article 9 (Matters concerning the collection, use, provision, refusal, etc. of behavioral information)
+
+Matters concerning the collection, use, provision, refusal, etc. of behavioral information;
+
+<Personal Information Processor Name> does not collect, use, or provide behavioral information for online customized advertisements.
+
+
+Article 10 (Criteria for determining additional use and provision)
+
+<HOI> may additionally use and provide personal information without the consent of the data subject in consideration of matters under Article 14-2 of the Enforcement Decree of the Personal Information Protection Act pursuant to Article 15(3) and Article 17(4). Accordingly, the following matters were considered by <HOI> in order to additionally use and provide it without the consent of the information subject. ▶ Whether the purpose of using and providing additional personal information is related to the original purpose of collection
+
+▶ Whether there is a predictability of additional use and provision in light of the circumstances or processing practices in which personal information is collected
+
+▶ Whether additional use and provision of personal information unfairly infringes on the interests of the data subject
+
+▶ Whether measures necessary for securing safety, such as pseudonym processing or encryption, have been taken
+
+※ Criteria for judging considerations when additional use and provision are prepared and disclosed by business operators/organizations themselves
+
+Article 11 (Matters concerning the processing of pseudonym information when processing pseudonym information)
+
+<HOI> processes pseudonym information for the following purposes:
+
+▶ Purpose of processing alias information
+
+You can write it yourself.
+▶ Processing and retention period of alias information
+
+You can write it yourself.
+▶ Matters concerning provision of pseudonym information to third parties (written only where applicable)
+
+You can write it yourself.
+▶ Matters concerning consignment of pseudonym information processing (written only where applicable)
+
+You can write it yourself.
+▶ Items of personal information processed under false names
+
+You can write it yourself.
+▶ Matters concerning measures to ensure the safety of pseudonym information under Article 28-4 (Obligation to take safety measures for pseudonym information, etc.) of the Act;
+
+You can write it yourself.
+Article 12 (Matters concerning the person in charge of personal information protection)
+
+① HOOI is in charge of handling personal information, and designates a person in charge of personal information protection as follows to handle complaints and remedy damages of information subjects related to personal information processing.
+
+▶ Personal Information Protection Manager Name: Kim Won-jin Position: Responsible Developer Position: Responsible Developer Contact: 01029777848, kwj7848@naver.com, 개인 Connects to the department in charge of personal information protection.
+
+▶ Name of department in charge of personal information protection: person in charge of development team: contact information: 정보 Information subject can contact the person in charge of personal information protection, complaint handling, damage relief, etc. when using HOOI's service (or business). HOOI will respond and process inquiries from the information subject without delay.
+
+Article 13 (Designation of Domestic Agent)
+
+The information subject may contact the domestic representative of <HOI> designated pursuant to Article 39-11 of the Personal Information Protection Act for personal information-related grievance handling, etc. <HOI> will try to expedite the work of the person in charge of personal information protection, such as handling personal information-related grievances of the information subject.
+
+▶ <HOI> has designated a domestic agent in accordance with Article 39-11 of the Personal Information Protection Act.
+
+Name of domestic agent: [Name of agent_direct input] (In the case of a corporation, the name of the representative)
+
+Address of domestic agent: [Agent address_directly input] (In the case of a corporation, the location of the business office)
+
+Domestic agent's phone number: [agent's phone number_directly entered]
+
+Domestic agent's e-mail address: [agent's e-mail_direct input]
+
+Article 14 (Department that receives and processes requests for access to personal information) The information subject may request the following departments for access to personal information under Article 35 of the Personal Information Protection Act. <HOI> will try to expedite the request for access to personal information by the information subject.
+
+▶ Name of department in charge of receiving and processing requests for personal information access: contact information: , ,
+
+Article 15 (Method of remedy for infringement of rights and interests of data subjects)
+
+In order to receive relief from personal information infringement, the information subject may apply for dispute resolution or consultation with the Personal Information Dispute Mediation Committee and the Korea Internet & Security Agency's Personal Information Infringement Report Center. In addition, please contact the institution below for reports and counseling of other personal information violations.
+
+Personal Information Dispute Mediation Committee: (Without National Number) 1833-6972 (www.kopico.go.kr)
+Personal Information Infringement Reporting Center: 118 (privacy.kisa.or.kr)
+Supreme Prosecutors' Office: 1301 (www.spo.go.kr)
+Police Department: 182 (ecrm.cyber.go.kr)
+A person who has been infringed on rights or interests due to disposition or omission by the head of a public institution may request an administrative trial as prescribed by the Administrative Appeals Act for requests under Articles 35 (View of Personal Information), 36 (Correction/Delete of Personal Information, etc.).
+
+※ For more information on administrative trials, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).
+
+Article 16 (Matters concerning the operation and management of video information processing devices) (1) <HOI> installs and operates video information processing devices as follows.
+
+1. Basis and purpose of installing image information processing equipment: <HOI>
+
+2. Number of installations, installation location, and filming range: Number of installations: Large installation location: filming range: 3. Management manager, department in charge, and authorization to access video information:
+
+4. Video information shooting time, storage period, storage place, processing method Filming time: Time storage period: Storage place and processing method from filming time: 5. Video information checking method and location:
+
+6. Measures for requesting access to video information by data subjects: access to personal video information.An application must be made as a request for confirmation of existence, and the life of the data subject itself is photographed or clearly.Access is allowed only if necessary for the benefit of the body and property
+
+7.Technical for image information protection.Administrative and physical measures:
+
+Article 17 (Change of Personal Information Processing Policy)
+
+① This personal information processing policy will be applied from January 1, 2022.
+
+② The previous privacy policy can be found below.
+
+Example) - Apply 20XX. X. X. X to 20XX. X. X. (Click)
+
+Example) - Apply 20XX. X. X. X to 20XX. X. X. (Click)
+
+Example) - Apply 20XX. X. X. X to 20XX. X. X. (Click)
