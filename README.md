@@ -2,451 +2,279 @@
 
 ## 한국어(IN KOREAN)
 
-< HOOI >('https://github.com/kwj7848/HOOIPrivacy.git'이하 'HOOI')은(는) 「개인정보 보호법」 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리방침을 수립·공개합니다.
+개인 정보 통지
 
-○ 이 개인정보처리방침은 2022년 1월 1부터 적용됩니다.
+마지막으로 업데이트된 2022년 7월 5일
 
 
-제1조(개인정보의 처리 목적)
 
-< HOOI >('https://github.com/kwj7848/HOOIPrivacy.git'이하 'HOOI')은(는) 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며 이용 목적이 변경되는 경우에는 「개인정보 보호법」 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.
+HOOI(이하 "회사", "우리", "우리"라 함)에 대한 본 개인정보 보호통지서는 귀하가 당사의 서비스("서비스")를 사용할 때 귀하의 정보를 수집, 저장, 사용 및/또는 공유("처리")하는 방법과 이유를 설명합니다. 예를 들어 다음과 같습니다.
+모바일 애플리케이션(HOOI) 또는 이 개인 정보 알림에 연결된 다른 애플리케이션을 다운로드하여 사용하십시오.
+영업, 마케팅 또는 이벤트를 비롯한 기타 관련 방법으로 NAT과 협력하십시오.
+질문이나 걱정거리? 이 개인 정보 통지서를 읽으면 개인 정보 보호 권리와 선택을 이해하는 데 도움이 됩니다. 당사의 정책 및 관행에 동의하지 않는 경우 서비스를 사용하지 마십시오. 궁금한 점이나 궁금한 점이 있으면 kwj7848@icloud.com으로 문의하십시오.
 
-1. 마케팅 및 광고에의 활용
 
-접속빈도 파악 또는 회원의 서비스 이용에 대한 통계 등을 목적으로 개인정보를 처리합니다.
+주요 요점 요약
 
+이 요약은 개인 정보 보호 공지 사항에서 핵심 사항을 제공하지만 각 핵심 사항 다음에 나오는 링크를 클릭하거나 아래 목차를 사용하여 원하는 섹션을 찾아 이러한 항목에 대한 자세한 내용을 확인할 수 있습니다. 또한 여기를 클릭하여 목차로 바로 이동할 수 있습니다.
 
+어떤 개인 정보를 처리합니까? 서비스를 방문, 사용 또는 탐색할 때 HOOI 및 서비스와 상호 작용하는 방식, 선택 사항, 사용하는 제품 및 기능에 따라 개인 정보를 처리할 수 있습니다. 자세한 내용을 보려면 여기를 클릭하십시오.
 
+민감한 개인 정보를 처리합니까? 우리는 민감한 개인 정보를 처리하지 않습니다.
 
-제2조(개인정보의 처리 및 보유 기간)
+제3자로부터 정보를 받았습니까? 우리는 제삼자로부터 어떠한 정보도 받지 않는다.
 
-① < HOOI >은(는) 법령에 따른 개인정보 보유·이용기간 또는 정보주체로부터 개인정보를 수집 시에 동의받은 개인정보 보유·이용기간 내에서 개인정보를 처리·보유합니다.
+당신의 정보를 어떻게 처리합니까? 당사는 서비스를 제공, 개선 및 관리하고, 귀하와 소통하며, 보안 및 부정 행위를 방지하며, 법률을 준수하기 위해 귀하의 정보를 처리합니다. 또한 귀하의 동의 하에 다른 목적으로 귀하의 정보를 처리할 수도 있습니다. 당사는 귀하의 정보를 처리해야 할 정당한 법적 사유가 있는 경우에만 처리합니다. 자세한 내용을 보려면 여기를 클릭하십시오.
 
-② 각각의 개인정보 처리 및 보유 기간은 다음과 같습니다.
+어떤 상황에서 어느 당사자와 개인 정보를 공유합니까? 당사는 특정 상황에서 특정 제3자와 정보를 공유할 수 있습니다. 자세한 내용을 보려면 여기를 클릭하십시오.
 
-1.<마케팅 및 광고에의 활용>
-<마케팅 및 광고에의 활용>와 관련한 개인정보는 수집.이용에 관한 동의일로부터<1년>까지 위 이용목적을 위하여 보유.이용됩니다.
-보유근거 : 접속 데이터 수집
-관련법령 : 신용정보의 수집/처리 및 이용 등에 관한 기록 : 3년
-예외사유 :
+귀하의 정보를 안전하게 보관하려면 어떻게 해야 합니까? 당사는 귀하의 개인 정보를 보호하기 위한 조직 및 기술 프로세스와 절차를 갖추고 있습니다. 그러나 인터넷을 통한 어떠한 전자 전송이나 정보 저장 기술도 100% 보안을 보장할 수 없으므로 해커, 사이버 범죄자 또는 기타 허가되지 않은 제3자가 당사의 보안을 무너뜨리고 사용자의 정보를 부적절하게 수집, 액세스, 도용 또는 수정하지 못할 것이라고 약속하거나 보장할 수 없습니다. 자세한 내용을 보려면 여기를 클릭하십시오.
 
+당신의 권리는 무엇입니까? 사용자의 지리적 위치에 따라 적용되는 개인 정보 보호법이 사용자의 개인 정보에 대한 특정 권한을 의미할 수 있습니다. 자세한 내용을 보려면 여기를 클릭하십시오.
 
-제3조(처리하는 개인정보의 항목)
+당신은 어떻게 권리를 행사합니까? 귀하의 권리를 행사하는 가장 쉬운 방법은 여기에서 제공되는 데이터 주제 요청 양식을 작성하거나 당사에 문의하는 것입니다. 당사는 해당 데이터 보호법에 따라 모든 요청을 검토하고 이에 따라 조치를 취합니다.
 
-① < HOOI >은(는) 다음의 개인정보 항목을 처리하고 있습니다.
+수집한 정보로 HOOI가 수행하는 작업에 대해 자세히 알고 싶으십니까? 통보를 전체적으로 검토하려면 여기를 클릭하십시오.
 
-1< 마케팅 및 광고에의 활용 >
-필수항목 : 서비스 이용 기록, 접속 로그
-선택항목 :
 
+목차.
 
-제4조(개인정보처리의 위탁에 관한 사항)
+1. 어떤 정보를 수집합니까?
+2. 정보를 어떻게 처리합니까?
+3. 귀하의 개인 정보를 언제 누구에게 공유해야 합니까?
+4. 귀하의 정보를 얼마나 오래 보관합니까?
+5. 귀하의 정보를 안전하게 보관하려면 어떻게 해야 합니까?
+6. 미성년자로부터 정보를 수집합니까?
+7. 귀하의 개인 정보 보호 권리는 무엇입니까?
+8. 추적 안 함 기능에 대한 제어
+9. 캘리포니아 주민에게 특정 개인 정보 보호 권한이 있습니까?
+10. 이 공지를 업데이트해야 합니까?
+11. 이 통지에 대해 어떻게 연락하실 수 있습니까?
+12. 귀사에서 수집한 데이터를 어떻게 검토, 업데이트 또는 삭제할 수 있습니까?
 
-① < HOOI >은(는) 원활한 개인정보 업무처리를 위하여 다음과 같이 개인정보 처리업무를 위탁하고 있습니다.
+1. 어떤 정보를 수집합니까?
 
-1. < >
-위탁받는 자 (수탁자) :
-위탁하는 업무의 내용 :
-위탁기간 :
-② < HOOI >은(는) 위탁계약 체결시 「개인정보 보호법」 제26조에 따라 위탁업무 수행목적 외 개인정보 처리금지, 기술적․관리적 보호조치, 재위탁 제한, 수탁자에 대한 관리․감독, 손해배상 등 책임에 관한 사항을 계약서 등 문서에 명시하고, 수탁자가 개인정보를 안전하게 처리하는지를 감독하고 있습니다.
+귀하가 당사에 공개하는 개인 정보
 
-③ 위탁업무의 내용이나 수탁자가 변경될 경우에는 지체없이 본 개인정보 처리방침을 통하여 공개하도록 하겠습니다.
+요약: 당사는 귀하가 제공하는 개인 정보를 수집합니다.
 
+NAT은 귀하가 당사 또는 당사 제품 및 서비스에 대한 정보를 얻고자 하는 경우, 서비스에 대한 활동에 참여할 때, 또는 귀하가 당사에 연락할 때 귀하가 자발적으로 제공하는 개인 정보를 수집합니다.
 
+중요한 정보입니다. 우리는 민감한 정보를 처리하지 않는다.
 
-제5조(개인정보의 파기절차 및 파기방법)
+응용 프로그램 데이터. 당사의 애플리케이션을 사용하는 경우 액세스 또는 권한을 제공하기로 선택한 경우 다음 정보도 수집할 수 있습니다.
+모바일 장치 액세스. 모바일 장치의 카메라 및 기타 기능을 포함하여 모바일 장치의 특정 기능에 대한 액세스 또는 권한을 요청할 수 있습니다. 액세스 또는 사용 권한을 변경하려면 장치의 설정에서 변경할 수 있습니다.
+이 정보는 주로 애플리케이션의 보안 및 운영을 유지하고, 문제 해결 및 내부 분석 및 보고를 위해 필요합니다.
 
+귀하가 당사에 제공하는 모든 개인 정보는 진실하고 완전하며 정확해야 하며, 이러한 개인 정보가 변경된 경우 당사에 통보해야 합니다.
 
-① < HOOI > 은(는) 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다.
+2. 정보를 어떻게 처리합니까?
 
-② 정보주체로부터 동의받은 개인정보 보유기간이 경과하거나 처리목적이 달성되었음에도 불구하고 다른 법령에 따라 개인정보를 계속 보존하여야 하는 경우에는, 해당 개인정보를 별도의 데이터베이스(DB)로 옮기거나 보관장소를 달리하여 보존합니다.
-1. 법령 근거 :
-2. 보존하는 개인정보 항목 : 계좌정보, 거래날짜
+요약: NAT은 서비스를 제공, 개선 및 관리하고, 귀사와 소통하며, 보안 및 부정 행위를 방지하며, 법률을 준수하기 위해 귀하의 정보를 처리합니다. 또한 귀하의 동의 하에 다른 목적으로 귀하의 정보를 처리할 수도 있습니다.
 
-③ 개인정보 파기의 절차 및 방법은 다음과 같습니다.
-1. 파기절차
-< HOOI > 은(는) 파기 사유가 발생한 개인정보를 선정하고, < HOOI > 의 개인정보 보호책임자의 승인을 받아 개인정보를 파기합니다.
+Seagate는 다음과 같은 다양한 이유로 귀하의 개인 정보를 처리합니다.
+3. 귀하의 개인 정보를 언제 누구에게 공유해야 합니까?
 
-2. 파기방법
+요약: 당사는 본 섹션 및/또는 다음 제3자와 특정 상황에서 정보를 공유할 수 있습니다.
 
-전자적 파일 형태의 정보는 기록을 재생할 수 없는 기술적 방법을 사용합니다
+다음과 같은 경우 귀하의 개인 정보를 공유해야 할 수 있습니다.
 
+사업 이전. 당사는 귀사의 정보를 합병, 회사 자산 매각, 자금 조달 또는 사업의 전부 또는 일부 인수와 관련하여 또는 협상 중에 공유하거나 이전할 수 있습니다.
+4. 귀하의 정보를 얼마나 오래 보관합니까?
 
+요약: 법에 달리 요구되지 않는 한 본 개인정보 보호통지에 명시된 목적을 달성하기 위해 필요한 경우 귀하의 정보를 보관합니다.
 
-제6조(정보주체와 법정대리인의 권리·의무 및 그 행사방법에 관한 사항)
+당사는 본 개인정보 보호통지에 명시된 목적을 위해 필요한 기간 동안만 귀하의 개인 정보를 보관합니다. 단, 법률에 의해 더 긴 보존 기간이 요구되거나 허용되는 경우(예: 세금, 회계 또는 기타 법적 요건)에는 해당되지 않습니다. 본 통지서의 어떠한 목적도 귀하의 개인 정보를 90일 이상 보관할 것을 요구하지 않습니다.
 
+귀하의 개인 정보를 지속적으로 처리해야 하는 합법적인 업무상의 필요성이 없는 경우, 당사는 해당 정보를 삭제하거나 익명화하거나, 그렇지 않은 경우(예: 귀하의 개인 정보가 백업 보관소에 저장되었기 때문에) 귀하의 개인 정보를 안전하게 저장하고 추가 처리로부터 격리합니다. 삭제할 수 있을 때까지 기다립니다.
 
+5. 귀하의 정보를 안전하게 보관하려면 어떻게 해야 합니까?
 
-① 정보주체는 HOOI에 대해 언제든지 개인정보 열람·정정·삭제·처리정지 요구 등의 권리를 행사할 수 있습니다.
+요약: 당사는 조직 및 기술 보안 조치 시스템을 통해 귀하의 개인 정보를 보호하는 것을 목표로 합니다.
 
-② 제1항에 따른 권리 행사는HOOI에 대해 「개인정보 보호법」 시행령 제41조제1항에 따라 서면, 전자우편, 모사전송(FAX) 등을 통하여 하실 수 있으며 HOOI은(는) 이에 대해 지체 없이 조치하겠습니다.
+NAT은 처리되는 모든 개인 정보의 보안을 보호하기 위해 설계된 적절하고 합리적인 기술적 및 조직적 보안 조치를 구현했습니다. 그러나 당사의 보호 조치와 귀하의 정보 보안 노력에도 불구하고 인터넷 또는 정보 저장 기술을 통한 전자 전송은 100% 보안을 보장할 수 없으므로 해커, 사이버 범죄자 또는 기타 허가되지 않은 제3자가 당사의 보안을 무너뜨리고 부적절하게 수집하지 않을 것이라고 약속하거나 보장할 수 없습니다.t, 정보를 액세스, 도용 또는 수정합니다. 당사는 귀하의 개인 정보를 보호하기 위해 최선을 다할 것이지만, 당사의 서비스와의 개인 정보 전송은 귀하의 책임입니다. 보안 환경 내에서만 서비스에 액세스해야 합니다.
 
-③ 제1항에 따른 권리 행사는 정보주체의 법정대리인이나 위임을 받은 자 등 대리인을 통하여 하실 수 있습니다.이 경우 “개인정보 처리 방법에 관한 고시(제2020-7호)” 별지 제11호 서식에 따른 위임장을 제출하셔야 합니다.
+6. 미성년자로부터 정보를 수집합니까?
 
-④ 개인정보 열람 및 처리정지 요구는 「개인정보 보호법」 제35조 제4항, 제37조 제2항에 의하여 정보주체의 권리가 제한 될 수 있습니다.
+간단히 말해서, 우리는 18세 미만의 어린이들로부터 의도적으로 데이터를 수집하거나 판매하지 않습니다.
 
-⑤ 개인정보의 정정 및 삭제 요구는 다른 법령에서 그 개인정보가 수집 대상으로 명시되어 있는 경우에는 그 삭제를 요구할 수 없습니다.
+우리는 18세 미만의 어린이에게 고의로 데이터를 요청하거나 판매하지 않습니다. 서비스를 이용함으로써 사용자는 자신이 최소 18세 이상이거나 이러한 미성년자의 부모 또는 보호자이며 이러한 미성년자 부양가족의 서비스 이용에 동의한다는 것을 나타냅니다. 만 18세 미만 이용자의 개인정보가 수집됐다는 사실을 알게 되면 계정을 비활성화하고 해당 데이터를 기록에서 즉시 삭제할 수 있도록 합리적인 조치를 취하겠습니다. 18세 미만의 어린이로부터 수집한 데이터를 알게 되면 kwj7848@icloud.com으로 문의하십시오.
 
-⑥ HOOI은(는) 정보주체 권리에 따른 열람의 요구, 정정·삭제의 요구, 처리정지의 요구 시 열람 등 요구를 한 자가 본인이거나 정당한 대리인인지를 확인합니다.
+7. 귀하의 개인 정보 보호 권리는 무엇입니까?
 
+요약: 언제든지 계정을 검토, 변경 또는 종료할 수 있습니다.
 
 
-제7조(개인정보의 안전성 확보조치에 관한 사항)
 
-< HOOI >은(는) 개인정보의 안전성 확보를 위해 다음과 같은 조치를 취하고 있습니다.
+귀하가 EEA 또는 영국에 거주하고 있으며 당사가 귀하의 개인 정보를 불법으로 처리하고 있다고 믿는 경우, 귀하는 또한 귀하의 지역 데이터 보호 감독 기관에 불만을 제기할 권리가 있습니다. 자세한 연락처는 https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm에서 확인할 수 있습니다.
+스위스에 거주하는 경우 데이터 보호 당국의 연락처 세부 정보는 https://www.edoeb.admin.ch/edoeb/en/home.html에서 확인할 수 있습니다.
+동의 철회: 당사가 귀하의 개인정보를 처리하는 데 동의한 경우(해당 법률에 따라 명시적 또는 묵시적 동의일 수 있음), 귀하는 언제든지 귀하의 동의를 철회할 권리가 있습니다. 귀하는 아래의 "이 통지에 대해 당사에 연락할 수 있는 방법" 섹션에 제공된 연락처 정보를 사용하여 언제든지 당사에 연락하여 동의를 철회할 수 있습니다.
+그러나 이는 철회 전 처리의 합법성에 영향을 미치지 않으며, 해당 법률이 허용하는 경우 동의 이외의 합법적인 처리 사유에 따라 수행되는 개인 정보의 처리에 영향을 미치지 않습니다.
 
-1. 정기적인 자체 감사 실시
-개인정보 취급 관련 안정성 확보를 위해 정기적(분기 1회)으로 자체 감사를 실시하고 있습니다.
+개인 정보 보호 권리에 대한 질문이나 의견이 있으면 kwj7848@icloud.com으로 이메일을 보내 주십시오.
 
-2. 개인정보에 대한 접근 제한
-개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여,변경,말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다.
+8. 추적 안 함 기능에 대한 제어
 
-3. 문서보안을 위한 잠금장치 사용
-개인정보가 포함된 서류, 보조저장매체 등을 잠금장치가 있는 안전한 장소에 보관하고 있습니다.
+대부분의 웹 브라우저와 일부 모바일 운영 체제 및 모바일 응용 프로그램에는 온라인 검색 활동에 대한 데이터가 모니터링 및 수집되지 않도록 개인 정보 설정을 표시하기 위해 활성화할 수 있는 DNT("Dot-Track") 기능이 포함되어 있습니다. 현 단계에서는 DNT 신호를 인식하고 구현하기 위한 통일된 기술 표준이 확정되지 않았다. 따라서 현재 온라인으로 추적되지 않도록 선택한 내용을 자동으로 전달하는 DNT 브라우저 신호 또는 기타 메커니즘에 응답하지 않습니다. 향후 우리가 준수해야 하는 온라인 추적 표준이 채택될 경우, 본 개인정보 보호통지서의 개정판을 통해 해당 관행에 대해 알려드립니다.
 
-4. 비인가자에 대한 출입 통제
-개인정보를 보관하고 있는 물리적 보관 장소를 별도로 두고 이에 대해 출입통제 절차를 수립, 운영하고 있습니다.
+9. 캘리포니아 주민에게 특정 개인 정보 보호 권한이 있습니까?
 
+요약: 예, 캘리포니아 주민이면 개인 정보에 대한 액세스에 대한 특정 권한이 부여됩니다.
 
+"Shine The Light" 법으로도 알려진 California Civil Code Section 1798.83은 캘리포니아 주민인 사용자가 직접 마케팅 목적으로 제3자에게 공개하는 개인 정보의 범주(있는 경우)와 모든 정보의 이름과 주소에 대한 정보를 1년에 한 번 무료로 요청하고 얻을 수 있도록 허용합니다.이전 연도에 개인 정보를 공유한 RD 파티 캘리포니아 거주자이고 이러한 요청을 하고 싶다면 아래 제공된 연락처 정보를 사용하여 서면으로 요청서를 제출하십시오.
 
+18세 미만이고 캘리포니아에 거주하며 서비스에 등록된 계정이 있는 경우, 서비스에 공개적으로 게시한 원치 않는 데이터의 제거를 요청할 수 있습니다. 이러한 데이터의 제거를 요청하려면 아래에 제공된 연락처 정보를 사용하여 당사에 연락하고 귀하의 계정과 관련된 이메일 주소와 캘리포니아에 거주한다는 성명을 포함하십시오. 데이터가 서비스에 공개적으로 표시되지 않도록 하겠지만, 데이터가 모든 시스템에서 완전히 또는 포괄적으로 제거되지 않을 수도 있습니다(예: 백업 등).
 
-제8조(개인정보를 자동으로 수집하는 장치의 설치·운영 및 그 거부에 관한 사항)
+10. 이 공지를 업데이트해야 합니까?
 
+요약: 예, 우리는 관련 법을 준수하기 위해 필요에 따라 이 통지를 업데이트할 것입니다.
 
+당사는 이 개인 정보 알림을 수시로 업데이트할 수 있습니다. 업데이트된 버전은 업데이트된 "개정된" 날짜로 표시되며, 업데이트된 버전은 액세스할 수 있는 즉시 적용됩니다. 본 개인정보 보호통지에 중대한 변경을 가하는 경우, 해당 변경사항에 대한 통지를 눈에 띄게 게시하거나 직접 통지서를 발송하여 통지할 수 있습니다. 이 개인 정보 통지서를 자주 검토하여 귀하의 정보를 보호하는 방법에 대해 알려주시기 바랍니다.
 
-HOOI 은(는) 정보주체의 이용정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)’를 사용하지 않습니다.
+11. 이 통지에 대해 어떻게 연락하실 수 있습니까?
 
+이 통지에 대한 질문이나 의견이 있으면 kwj7848@icloud.com으로 이메일을 보내거나 다음 주소로 우편을 보낼 수 있습니다.
 
-제9조(행태정보의 수집·이용·제공 및 거부 등에 관한 사항)
+HOOI
 
+__________
 
+__________
 
-행태정보의 수집·이용·제공 및 거부등에 관한 사항
+대한민국.
 
-<개인정보처리자명>은(는) 온라인 맞춤형 광고 등을 위한 행태정보를 수집·이용·제공하지 않습니다.
+12. 귀사에서 수집한 데이터를 어떻게 검토, 업데이트 또는 삭제할 수 있습니까?
 
-
-
-제10조(추가적인 이용·제공 판단기준)
-
-< HOOI > 은(는) ｢개인정보 보호법｣ 제15조제3항 및 제17조제4항에 따라 ｢개인정보 보호법 시행령｣ 제14조의2에 따른 사항을 고려하여 정보주체의 동의 없이 개인정보를 추가적으로 이용·제공할 수 있습니다.
-이에 따라 < HOOI > 가(이) 정보주체의 동의 없이 추가적인 이용·제공을 하기 위해서 다음과 같은 사항을 고려하였습니다.
-▶ 개인정보를 추가적으로 이용·제공하려는 목적이 당초 수집 목적과 관련성이 있는지 여부
-
-▶ 개인정보를 수집한 정황 또는 처리 관행에 비추어 볼 때 추가적인 이용·제공에 대한 예측 가능성이 있는지 여부
-
-▶ 개인정보의 추가적인 이용·제공이 정보주체의 이익을 부당하게 침해하는지 여부
-
-▶ 가명처리 또는 암호화 등 안전성 확보에 필요한 조치를 하였는지 여부
-
-※ 추가적인 이용·제공 시 고려사항에 대한 판단기준은 사업자/단체 스스로 자율적으로 판단하여 작성·공개함
-
-
-
-제11조(가명정보를 처리하는 경우 가명정보 처리에 관한 사항)
-
-< HOOI > 은(는) 다음과 같은 목적으로 가명정보를 처리하고 있습니다.
-
-▶ 가명정보의 처리 목적
-
-- 직접작성 가능합니다.
-
-▶ 가명정보의 처리 및 보유기간
-
-- 직접작성 가능합니다.
-
-▶ 가명정보의 제3자 제공에 관한 사항(해당되는 경우에만 작성)
-
-- 직접작성 가능합니다.
-
-▶ 가명정보 처리의 위탁에 관한 사항(해당되는 경우에만 작성)
-
-- 직접작성 가능합니다.
-
-▶ 가명처리하는 개인정보의 항목
-
-- 직접작성 가능합니다.
-
-▶ 법 제28조의4(가명정보에 대한 안전조치 의무 등)에 따른 가명정보의 안전성 확보조치에 관한 사항
-
-- 직접작성 가능합니다.
-
-제12조 (개인정보 보호책임자에 관한 사항)
-
-① HOOI 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
-
-▶ 개인정보 보호책임자
-성명 :김원진
-직책 :책임개발자
-직급 :책임개발자
-연락처 :01029777848, kwj7848@naver.com,
-※ 개인정보 보호 담당부서로 연결됩니다.
-
-
-▶ 개인정보 보호 담당부서
-부서명 :개발팀
-담당자 :
-연락처 :, ,
-② 정보주체께서는 HOOI 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. HOOI 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
-
-
-
-제13조(국내대리인의 지정)
-
-정보주체는 ｢개인정보 보호법｣ 제39조의11에 따라 지정된 < HOOI >의 국내대리인에게 개인정보 관련 고충처리 등의 업무를 위하여 연락을 취할 수 있습니다. < HOOI >은(는) 정보주체의 개인정보 관련 고충처리 등 개인정보 보호책임자의 업무 등을 신속하게 처리할 수 있도록 노력하겠습니다.
-
-▶ < HOOI > 은(는) ｢개인정보 보호법｣ 제39조의11에 따라 국내대리인을 지정하였습니다.
-
-- 국내대리인의 성명 : [대리인 성명_직접입력] (법인의 경우 법인명, 대표자의 성명)
-
-- 국내대리인의 주소 : [대리인 주소_직접입력] (법인의 경우 영업소 소재지)
-
-- 국내대리인의 전화번호 : [대리인 전화번호_직접입력]
-
-- 국내대리인의 전자우편 주소 : [대리인 전자우편_직접입력]
-
-제14조(개인정보의 열람청구를 접수·처리하는 부서)
-정보주체는 ｢개인정보 보호법｣ 제35조에 따른 개인정보의 열람 청구를 아래의 부서에 할 수 있습니다.
-< HOOI >은(는) 정보주체의 개인정보 열람청구가 신속하게 처리되도록 노력하겠습니다.
-
-▶ 개인정보 열람청구 접수·처리 부서
-부서명 :
-담당자 :
-연락처 : , ,
-
-
-제15조(정보주체의 권익침해에 대한 구제방법)
-
-
-
-정보주체는 개인정보침해로 인한 구제를 받기 위하여 개인정보분쟁조정위원회, 한국인터넷진흥원 개인정보침해신고센터 등에 분쟁해결이나 상담 등을 신청할 수 있습니다. 이 밖에 기타 개인정보침해의 신고, 상담에 대하여는 아래의 기관에 문의하시기 바랍니다.
-
-1. 개인정보분쟁조정위원회 : (국번없이) 1833-6972 (www.kopico.go.kr)
-2. 개인정보침해신고센터 : (국번없이) 118 (privacy.kisa.or.kr)
-3. 대검찰청 : (국번없이) 1301 (www.spo.go.kr)
-4. 경찰청 : (국번없이) 182 (ecrm.cyber.go.kr)
-
-「개인정보보호법」제35조(개인정보의 열람), 제36조(개인정보의 정정·삭제), 제37조(개인정보의 처리정지 등)의 규정에 의한 요구에 대 하여 공공기관의 장이 행한 처분 또는 부작위로 인하여 권리 또는 이익의 침해를 받은 자는 행정심판법이 정하는 바에 따라 행정심판을 청구할 수 있습니다.
-
-※ 행정심판에 대해 자세한 사항은 중앙행정심판위원회(www.simpan.go.kr) 홈페이지를 참고하시기 바랍니다.
-
-제16조(영상정보처리기기 운영·관리에 관한 사항)
-① < HOOI >은(는) 아래와 같이 영상정보처리기기를 설치·운영하고 있습니다.
-
-1.영상정보처리기기 설치근거·목적 : < HOOI >의
-
-2.설치 대수, 설치 위치, 촬영 범위 :
-설치대수 : 대
-설치위치 :
-촬영범위 :
-3.관리책임자, 담당부서 및 영상정보에 대한 접근권한자 :
-
-4.영상정보 촬영시간, 보관기간, 보관장소, 처리방법
-촬영시간 : 시간
-보관기간 : 촬영시부터
-보관장소 및 처리방법 :
-5.영상정보 확인 방법 및 장소 :
-
-6.정보주체의 영상정보 열람 등 요구에 대한 조치 : 개인영상정보 열람.존재확인 청구서로 신청하여야 하며, 정보주체 자신이 촬영된 경우 또는 명백히 정보주체의 생명.신체.재산 이익을 위해 필요한 경우에 한해 열람을 허용함
-
-7.영상정보 보호를 위한 기술적.관리적.물리적 조치 :
-
-
-
-제17조(개인정보 처리방침 변경)
-
-
-① 이 개인정보처리방침은 2022년 1월 1부터 적용됩니다.
-
-② 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.
-
-예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
-
-예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
-
-예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
+귀하는 해당 국가의 법률에 따라 당사가 수집한 개인 정보에 대한 액세스를 요청하거나, 해당 정보를 변경하거나 삭제할 수 있습니다. 개인 정보 검토, 업데이트 또는 삭제를 요청하려면 여기를 클릭하여 요청 양식을 제출하십시오.
 
 
 
 ## IN ENGLISH
 
-In accordance with Article 30 of the Personal Information Protection Act, <HOI> ("https://github.com/kwj7848/HOOIPrivacy.git'") establishes and discloses a personal information processing policy as follows to protect the personal information of the data subject and to quickly and smoothly deal with related difficulties.
+PRIVACY NOTICE
 
-○ This personal information processing policy will be applied from January 1, 2022.
+This privacy notice for HOOI ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+Download and use our mobile application (HOOI), or any other application of ours that links to this privacy notice
+Engage with us in other related ways, including any sales, marketing, or events
+Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at kwj7848@icloud.com.
 
-Article 1 (Purpose of processing personal information)
+SUMMARY OF KEY POINTS
 
-<HOI> ('https://github.com/kwj7848/HOOIPrivacy.git' hereinafter referred to as 'HOI') processes personal information for the following purposes: The personal information being processed is not used for any purpose other than the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the Personal Information Protection Act.
+This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with HOOI and the Services, the choices you make, and the products and features you use. Click here to learn more.
+Do we process any sensitive personal information? We do not process sensitive personal information.
 
-Leverage for marketing and advertising
-Personal information is processed for the purpose of identifying the frequency of access or statistics on the use of services by members.
+Do we receive any information from third parties? We do not receive any information from third parties.
 
-Article 2 (Processing and Retention Period of Personal Information)
+How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click here to learn more.
+In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Click here to learn more.
+How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click here to learn more.
+What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click here to learn more.
+How do you exercise your rights? The easiest way to exercise your rights is by filling out our data subject request form available here, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+Want to learn more about what HOOI does with any information we collect? Click here to review the notice in full.
+TABLE OF CONTENTS
 
-① <HOI> processes and holds personal information within the period of holding and using personal information under the Act or the period of holding and using personal information agreed upon when collecting personal information from the information subject.
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE PROCESS YOUR INFORMATION?
+4. HOW LONG DO WE KEEP YOUR INFORMATION?
+5. HOW DO WE KEEP YOUR INFORMATION SAFE?
+6. DO WE COLLECT INFORMATION FROM MINORS?
+8. CONTROLS FOR DO-NOT-TRACK FEATURES
+9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+10. DO WE MAKE UPDATES TO THIS NOTICE?
+11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+1. WHAT INFORMATION DO WE COLLECT?
 
-② Each personal information processing and retention period is as follows.
+Personal information you disclose to us
 
-1. <Use for Marketing and Advertising> Personal information related to <Use for Marketing and Advertising> is collected.Held for the above purpose of use from the date of consent to use to <1 year>.Used. Grounds for holding: Act on the Collection of Access Data: Records on the Collection/Processing and Use of Credit Information: 3 years Reason for Exception:
+In Short: We collect personal information that you provide to us.
 
-Article 3 (Item of personal information to be processed)
+We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 
-① <HOI> is processing the following personal information items:
+Sensitive Information. We do not process sensitive information.
 
-1<Use for marketing and advertising> Required items: Service usage records, access log selection items:
+Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
-Article 4 (Matters concerning entrustment of personal information processing)
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-① For smooth personal information processing, <HOI> entrusts personal information processing as follows.
+2. HOW DO WE PROCESS YOUR INFORMATION?
 
-<> Consignee (Trustee): Details of consignment: Consignment period: < In accordance with Article 26 of the Personal Information Protection Act, personal information is prohibited, technical and management measures, re-consignment restrictions, and individual information is supervised.
-③ If the details of the entrusted work or the trustee changes, we will disclose it through this personal information processing policy without delay.
+In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
-Article 5 (Procedure and method of destruction of personal information)
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
-① <HOI> destroys personal information without delay when personal information becomes unnecessary, such as the expiration of the personal information retention period and the achievement of the purpose of processing.
+In Short: We may share information in specific situations described in this section and/or with the following third parties.
 
-② If personal information is to be preserved in accordance with other laws and regulations despite the expiration of the period of personal information retention agreed by the data subject or the purpose of processing has been achieved, the personal information is moved to a separate database (DB) or stored elsewhere.
+We may need to share your personal information in the following situations:
 
-Legal basis:
-Personal information items to be preserved: account information, transaction date
-③ The procedure and method of destroying personal information are as follows.
+Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+4. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-The destruction procedure HHOI> selects personal information for which the reason for destruction occurs, and destroys personal information with the approval of the person in charge of personal information protection of HHOI>.
+In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
-Destruction method
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 90 days.
 
-Electronic file types of information use a technical method that does not allow recording to be played back
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-Article 6 (Matters concerning the rights and obligations of the information subject and legal representative, and the method of exercise thereof)
+5. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-① The information subject may exercise the right to HOOI at any time, such as requesting access, correction, deletion, and suspension of processing of personal information.
+In Short: We aim to protect your personal information through a system of organizational and technical security measures.
 
-② The exercise of rights under paragraph (1) may be conducted in writing, e-mail, fax, etc. in accordance with Article 41 (1) of the Enforcement Decree of the Personal Information Protection Act, and HOI will take action without delay.
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-③ The exercise of rights under paragraph (1) may be conducted through a legal representative of the data subject or an agent, such as a delegated person.In such cases, "Public notice on the processing method of personal information (No. 2020-7)" You must submit a power of attorney in accordance with attached Form 11.
+6. DO WE COLLECT INFORMATION FROM MINORS?
 
-④ The rights of the data subject may be limited pursuant to Articles 35 (4) and 37 (2) of the Personal Information Protection Act for the requesting suspension of personal information access and processing.
+In Short: We do not knowingly collect data from or market to children under 18 years of age.
 
-⑤ A request for correction and deletion of personal information cannot be requested to delete personal information if it is specified in other laws and regulations.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at kwj7848@icloud.com.
 
-⑥ The HOOI checks whether the person who made the request, such as request for perusal, correction or deletion according to the right of the information subject, or perusal when requesting suspension of processing, is the person or the legitimate agent.
+7. WHAT ARE YOUR PRIVACY RIGHTS?
 
-Article 7 (Matters concerning measures to ensure the safety of personal information)
+In Short:  You may review, change, or terminate your account at any time.
 
-<HOI> is taking the following measures to ensure the safety of personal information.
+ 
 
-Regular self-audit is conducted regularly (once a quarter) to ensure stability related to personal information handling.
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+If you are located in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
+Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+However, please note that this will not affect the lawfulness of the processing before its withdrawal, nor when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-Restriction of access to personal information By granting, changing, or canceling access to a database system that processes personal information, measures are taken to control access to personal information, and unauthorized access from outside is controlled using an intrusion prevention system.
+If you have questions or comments about your privacy rights, you may email us at kwj7848@icloud.com.
 
-Use of a lock for document security Documents containing personal information, auxiliary storage media, etc. are stored in a safe place with a lock.
+8. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-Access control for unauthorized persons Access control procedures are established and operated for separate physical storage places where personal information is stored.
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-Article 8 (Matters concerning the installation and operation of devices that automatically collect personal information and refusal thereof)
+9. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-HOOI does not use 'cookie' that stores information on the information subject and reads it from time to time.
+In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
-Article 9 (Matters concerning the collection, use, provision, refusal, etc. of behavioral information)
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
 
-Matters concerning the collection, use, provision, refusal, etc. of behavioral information;
+If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
 
-<Personal Information Processor Name> does not collect, use, or provide behavioral information for online customized advertisements.
+10. DO WE MAKE UPDATES TO THIS NOTICE?
 
+In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
-Article 10 (Criteria for determining additional use and provision)
+We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-<HOI> may additionally use and provide personal information without the consent of the data subject in consideration of matters under Article 14-2 of the Enforcement Decree of the Personal Information Protection Act pursuant to Article 15(3) and Article 17(4). Accordingly, the following matters were considered by <HOI> in order to additionally use and provide it without the consent of the information subject. ▶ Whether the purpose of using and providing additional personal information is related to the original purpose of collection
+11. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-▶ Whether there is a predictability of additional use and provision in light of the circumstances or processing practices in which personal information is collected
+If you have questions or comments about this notice, you may email us at kwj7848@icloud.com or by post to:
 
-▶ Whether additional use and provision of personal information unfairly infringes on the interests of the data subject
+HOOI
 
-▶ Whether measures necessary for securing safety, such as pseudonym processing or encryption, have been taken
+__________
 
-※ Criteria for judging considerations when additional use and provision are prepared and disclosed by business operators/organizations themselves
+__________
 
-Article 11 (Matters concerning the processing of pseudonym information when processing pseudonym information)
+South Korea
 
-<HOI> processes pseudonym information for the following purposes:
+12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-▶ Purpose of processing alias information
-
-You can write it yourself.
-▶ Processing and retention period of alias information
-
-You can write it yourself.
-▶ Matters concerning provision of pseudonym information to third parties (written only where applicable)
-
-You can write it yourself.
-▶ Matters concerning consignment of pseudonym information processing (written only where applicable)
-
-You can write it yourself.
-▶ Items of personal information processed under false names
-
-You can write it yourself.
-▶ Matters concerning measures to ensure the safety of pseudonym information under Article 28-4 (Obligation to take safety measures for pseudonym information, etc.) of the Act;
-
-You can write it yourself.
-Article 12 (Matters concerning the person in charge of personal information protection)
-
-① HOOI is in charge of handling personal information, and designates a person in charge of personal information protection as follows to handle complaints and remedy damages of information subjects related to personal information processing.
-
-▶ Personal Information Protection Manager Name: Kim Won-jin Position: Responsible Developer Position: Responsible Developer Contact: 01029777848, kwj7848@naver.com, 개인 Connects to the department in charge of personal information protection.
-
-▶ Name of department in charge of personal information protection: person in charge of development team: contact information: 정보 Information subject can contact the person in charge of personal information protection, complaint handling, damage relief, etc. when using HOOI's service (or business). HOOI will respond and process inquiries from the information subject without delay.
-
-Article 13 (Designation of Domestic Agent)
-
-The information subject may contact the domestic representative of <HOI> designated pursuant to Article 39-11 of the Personal Information Protection Act for personal information-related grievance handling, etc. <HOI> will try to expedite the work of the person in charge of personal information protection, such as handling personal information-related grievances of the information subject.
-
-▶ <HOI> has designated a domestic agent in accordance with Article 39-11 of the Personal Information Protection Act.
-
-Name of domestic agent: [Name of agent_direct input] (In the case of a corporation, the name of the representative)
-
-Address of domestic agent: [Agent address_directly input] (In the case of a corporation, the location of the business office)
-
-Domestic agent's phone number: [agent's phone number_directly entered]
-
-Domestic agent's e-mail address: [agent's e-mail_direct input]
-
-Article 14 (Department that receives and processes requests for access to personal information) The information subject may request the following departments for access to personal information under Article 35 of the Personal Information Protection Act. <HOI> will try to expedite the request for access to personal information by the information subject.
-
-▶ Name of department in charge of receiving and processing requests for personal information access: contact information: , ,
-
-Article 15 (Method of remedy for infringement of rights and interests of data subjects)
-
-In order to receive relief from personal information infringement, the information subject may apply for dispute resolution or consultation with the Personal Information Dispute Mediation Committee and the Korea Internet & Security Agency's Personal Information Infringement Report Center. In addition, please contact the institution below for reports and counseling of other personal information violations.
-
-Personal Information Dispute Mediation Committee: (Without National Number) 1833-6972 (www.kopico.go.kr)
-Personal Information Infringement Reporting Center: 118 (privacy.kisa.or.kr)
-Supreme Prosecutors' Office: 1301 (www.spo.go.kr)
-Police Department: 182 (ecrm.cyber.go.kr)
-A person who has been infringed on rights or interests due to disposition or omission by the head of a public institution may request an administrative trial as prescribed by the Administrative Appeals Act for requests under Articles 35 (View of Personal Information), 36 (Correction/Delete of Personal Information, etc.).
-
-※ For more information on administrative trials, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).
-
-Article 16 (Matters concerning the operation and management of video information processing devices) (1) <HOI> installs and operates video information processing devices as follows.
-
-1. Basis and purpose of installing image information processing equipment: <HOI>
-
-2. Number of installations, installation location, and filming range: Number of installations: Large installation location: filming range: 3. Management manager, department in charge, and authorization to access video information:
-
-4. Video information shooting time, storage period, storage place, processing method Filming time: Time storage period: Storage place and processing method from filming time: 5. Video information checking method and location:
-
-6. Measures for requesting access to video information by data subjects: access to personal video information.An application must be made as a request for confirmation of existence, and the life of the data subject itself is photographed or clearly.Access is allowed only if necessary for the benefit of the body and property
-
-7.Technical for image information protection.Administrative and physical measures:
-
-Article 17 (Change of Personal Information Processing Policy)
-
-① This personal information processing policy will be applied from January 1, 2022.
-
-② The previous privacy policy can be found below.
-
-Example) - Apply 20XX. X. X. X to 20XX. X. X. (Click)
-
-Example) - Apply 20XX. X. X. X to 20XX. X. X. (Click)
-
-Example) - Apply 20XX. X. X. X to 20XX. X. X. (Click)
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by clicking here.
